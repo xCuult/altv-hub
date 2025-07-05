@@ -1,0 +1,8 @@
+{
+  "title": "ClickWarp System",
+  "url": "https://github.com/xCuult/Alt-V-Click-Warp",
+  "description": "A simple system by which you can teleport by cursor position in the game world.",
+  "tags": ["javascript"],
+  "cover": "https://i.imgur.com/SoQUFKf.png",
+  "cli": false
+}
